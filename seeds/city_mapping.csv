@@ -1,0 +1,36 @@
+raw_value,city,province,region
+quezon city,Quezon City,Metro Manila,NCR
+qc,Quezon City,Metro Manila,NCR
+q.c.,Quezon City,Metro Manila,NCR
+manila,Manila,Metro Manila,NCR
+city of manila,Manila,Metro Manila,NCR
+makati,Makati,Metro Manila,NCR
+makati city,Makati,Metro Manila,NCR
+taguig,Taguig,Metro Manila,NCR
+taguig city,Taguig,Metro Manila,NCR
+pasig,Pasig,Metro Manila,NCR
+pasig city,Pasig,Metro Manila,NCR
+mandaluyong,Mandaluyong,Metro Manila,NCR
+mandaluyong city,Mandaluyong,Metro Manila,NCR
+caloocan,Caloocan,Metro Manila,NCR
+caloocan city,Caloocan,Metro Manila,NCR
+cebu city,Cebu City,Cebu,Central Visayas
+cebu,Cebu City,Cebu,Central Visayas
+davao city,Davao City,Davao del Sur,Davao Region
+davao,Davao City,Davao del Sur,Davao Region
+cagayan de oro,Cagayan de Oro,Misamis Oriental,Northern Mindanao
+cdo,Cagayan de Oro,Misamis Oriental,Northern Mindanao
+angeles city,Angeles City,Pampanga,Central Luzon
+angeles,Angeles City,Pampanga,Central Luzon
+baguio city,Baguio City,Benguet,CAR
+baguio,Baguio City,Benguet,CAR
+iloilo city,Iloilo City,Iloilo,Western Visayas
+iloilo,Iloilo City,Iloilo,Western Visayas
+bacolod city,Bacolod City,Negros Occidental,Western Visayas
+bacolod,Bacolod City,Negros Occidental,Western Visayas
+antipolo,Antipolo,Rizal,CALABARZON
+antipolo city,Antipolo,Rizal,CALABARZON
+calamba,Calamba,Laguna,CALABARZON
+calamba city,Calamba,Laguna,CALABARZON
+dasmarinas,Dasmarinas,Cavite,CALABARZON
+dasmarinas city,Dasmarinas,Cavite,CALABARZON

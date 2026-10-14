@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Generated artifacts: reproducible with `make all`, so they don't belong in git
+data/raw/
+warehouse/
+*.duckdb
+*.duckdb.wal
+
+.DS_Store
+.vscode/
+.idea/

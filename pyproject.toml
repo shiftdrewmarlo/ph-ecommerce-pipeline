@@ -1,0 +1,16 @@
+[project]
+name = "ph-ecommerce-pipeline"
+version = "0.1.0"
+description = "End-to-end data engineering project: synthetic PH e-commerce data -> DuckDB medallion warehouse -> dashboard"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
